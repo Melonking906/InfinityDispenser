@@ -1,0 +1,12 @@
+name: InfinityDispenser
+author: Xephi,Melonking
+main: me.Xephi.InfinityDispenser.InfinityDispenser
+version: 2.0
+commands:
+  infdisp:
+    description: InfDisp Command
+    usage: /infdisp set - /infdisp remove
+permissions:
+    infdispenser.command:
+        description: Permission to the infinitydispenser command
+        default: op
